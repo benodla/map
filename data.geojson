@@ -1,0 +1,867 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.8167, 63.3167] },
+      "properties": { "zip_code": 83631, "city": "LIT", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.45, 57.7] },
+      "properties": { "zip_code": 43898, "city": "HINDÅS", "count": "9" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.55, 60.0333] },
+      "properties": { "zip_code": 74371, "city": "Björklinge", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.5, 58.5167] },
+      "properties": { "zip_code": 58575, "city": "Ljungsbro", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.2066, 59.2741] },
+      "properties": { "zip_code": 70594, "city": "Örebro", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.4371, 60.4858] },
+      "properties": { "zip_code": 78190, "city": "Borlänge", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.619, 58.9863] },
+      "properties": { "zip_code": 69532, "city": "Laxå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.4091, 60.641] },
+      "properties": { "zip_code": 81432, "city": "Skutskär", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.1751, 57.4591] },
+      "properties": { "zip_code": 43974, "city": "Fjärås", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.5036, 59.3793] },
+      "properties": { "zip_code": 65352, "city": "Karlstad", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.2833, 58.35] },
+      "properties": { "zip_code": 59559, "city": "Mantorp", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.9926, 59.514] },
+      "properties": { "zip_code": 73141, "city": "Köping", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.9944, 59.876] },
+      "properties": { "zip_code": 71431, "city": "KOPPARBERG", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.1236, 58.3259] },
+      "properties": { "zip_code": 59592, "city": "Mjölby", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.5333, 59.1667] },
+      "properties": { "zip_code": 71531, "city": "ODENSBACKEN", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [22.1546, 65.5842] },
+      "properties": { "zip_code": 97596, "city": "Luleå", "count": "3" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.8388, 59.3939] },
+      "properties": { "zip_code": 73295, "city": "Arboga", "count": "3" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.4, 55.6333] },
+      "properties": {
+        "zip_code": 24795,
+        "city": "Torna-Hällestad",
+        "count": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.2667, 63.1667] },
+      "properties": { "zip_code": 88133, "city": "Sollefteå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.2667, 63.9333] },
+      "properties": { "zip_code": 91992, "city": "Åsele", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.5667, 61.2333] },
+      "properties": { "zip_code": 82391, "city": "Kilafors", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4488, 63.3259] },
+      "properties": { "zip_code": 83532, "city": "Krokom", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.705, 59.758] },
+      "properties": { "zip_code": 76197, "city": "Norrtälje", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.7875, 59.7256] },
+      "properties": { "zip_code": 74145, "city": "Knivsta", "count": "3" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.6624, 57.4033] },
+      "properties": { "zip_code": 57635, "city": "Sävsjö", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.4047, 62.4489] },
+      "properties": { "zip_code": 86533, "city": "Alnö", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.522, 59.7839] },
+      "properties": { "zip_code": 71231, "city": "Hällefors", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.8667, 59.0333] },
+      "properties": { "zip_code": 69494, "city": "Vretstorp", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.3, 57.8333] },
+      "properties": { "zip_code": 44370, "city": "Gråbo", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.04, 57.186] },
+      "properties": { "zip_code": 33141, "city": "Värnamo", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.4333, 59.7667] },
+      "properties": { "zip_code": 68493, "city": "Ransäter", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.7765, 62.9316] },
+      "properties": { "zip_code": 87236, "city": "Kramfors", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.85, 57.9333] },
+      "properties": { "zip_code": 44298, "city": "Kode", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.8121, 59.291] },
+      "properties": { "zip_code": 17836, "city": "Ekerö", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.9379, 62.6323] },
+      "properties": { "zip_code": 87195, "city": "Älandsbro", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.1, 64.0333] },
+      "properties": { "zip_code": 92266, "city": "Tavelsjö", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.7236, 59.6173] },
+      "properties": { "zip_code": 19391, "city": "Sigtuna", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.9819, 59.237] },
+      "properties": { "zip_code": 14139, "city": "Huddinge", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.3063, 62.3913] },
+      "properties": { "zip_code": 85238, "city": "Sundsvall", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [22.8441, 66.3275] },
+      "properties": { "zip_code": 95632, "city": "Överkalix", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.5167, 58.95] },
+      "properties": { "zip_code": 61971, "city": "Vagnhärad", "count": "3" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.6454, 59.8585] },
+      "properties": { "zip_code": 75337, "city": "Uppsala", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.35, 57.5333] },
+      "properties": { "zip_code": 51441, "city": "Limmared", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.3714, 62.51] },
+      "properties": { "zip_code": 86141, "city": "Sörberge", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.5333, 63.1833] },
+      "properties": { "zip_code": 83247, "city": "FRÖSÖN", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.1434, 59.1277] },
+      "properties": { "zip_code": 69272, "city": "Kumla", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.8568, 56.6745] },
+      "properties": { "zip_code": 30597, "city": "Eldsberga", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.0777, 59.6361] },
+      "properties": { "zip_code": 74595, "city": "Enköping", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.8167, 57.7667] },
+      "properties": { "zip_code": 50491, "city": "Sandhult", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.2167, 59.2667] },
+      "properties": { "zip_code": 64731, "city": "Mariefred", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2597, 63.8284] },
+      "properties": { "zip_code": 90637, "city": "Umeå", "count": "2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.0833, 59.25] },
+      "properties": {
+        "zip_code": 64750,
+        "city": "Åkers Styckebruk",
+        "count": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.5528, 59.6162] },
+      "properties": { "zip_code": 72214, "city": "VÄSTERÅS", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.3835, 62.2634] },
+      "properties": { "zip_code": 86295, "city": "Njurunda", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.7701, 57.7243] },
+      "properties": { "zip_code": 42341, "city": "Torslanda", "count": "2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [21.0016, 65.6762] },
+      "properties": { "zip_code": 94235, "city": "Älvsbyn", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.9872, 59.3059] },
+      "properties": { "zip_code": 12638, "city": "HÄGERSTEN", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.4833, 60.5167] },
+      "properties": { "zip_code": 81340, "city": "Torsåker", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.6, 63.3] },
+      "properties": { "zip_code": 89431, "city": "Själevad", "count": "2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4696, 56.0755] },
+      "properties": { "zip_code": 29532, "city": "Bromölla", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.4, 63.5333] },
+      "properties": { "zip_code": 91492, "city": "Lögdeå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.1577, 58.5052] },
+      "properties": { "zip_code": 53196, "city": "Lidköping", "count": "4" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.5036, 59.3793] },
+      "properties": { "zip_code": 65464, "city": "Karlstad", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.4488, 63.3259] },
+      "properties": { "zip_code": 83533, "city": "Krokom", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2597, 63.8284] },
+      "properties": { "zip_code": 90581, "city": "Umeå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.9509, 59.428] },
+      "properties": { "zip_code": 19143, "city": "Sollentuna", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.0018, 60.7329] },
+      "properties": { "zip_code": 79350, "city": "Leksand", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.7333, 60.5333] },
+      "properties": { "zip_code": 81173, "city": "Årsunda", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.9379, 62.6323] },
+      "properties": { "zip_code": 87142, "city": "Härnösand", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.9667, 60.5] },
+      "properties": { "zip_code": 78543, "city": "Mockfjärd", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.5036, 59.3793] },
+      "properties": { "zip_code": 65593, "city": "Karlstad", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.5239, 59.3267] },
+      "properties": { "zip_code": 69136, "city": "KARLSKOGA", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.3063, 62.3913] },
+      "properties": { "zip_code": 85353, "city": "Sundsvall", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.9926, 59.514] },
+      "properties": { "zip_code": 73193, "city": "Köping", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.9582, 57.6766] },
+      "properties": { "zip_code": 42539, "city": "Hisings Kärra", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.5558, 63.8521] },
+      "properties": { "zip_code": 83395, "city": "Strömsund", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.3063, 62.3913] },
+      "properties": { "zip_code": 85653, "city": "Sundsvall", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [22.1546, 65.5842] },
+      "properties": { "zip_code": 97595, "city": "Luleå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2251, 67.8557] },
+      "properties": { "zip_code": 98143, "city": "Kiruna", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.0437, 56.5121] },
+      "properties": { "zip_code": 31296, "city": "Laholm", "count": "3" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.9528, 64.7507] },
+      "properties": { "zip_code": 93198, "city": "Skellefteå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.7505, 60.3478] },
+      "properties": { "zip_code": 78390, "city": "Säter", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.5024, 63.5685] },
+      "properties": { "zip_code": 91490, "city": "Nordmaling", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.6, 63.3] },
+      "properties": { "zip_code": 89491, "city": "Själevad", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.4167, 57.75] },
+      "properties": { "zip_code": 52393, "city": "Marbäck", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.1679, 60.1454] },
+      "properties": { "zip_code": 77493, "city": "Avesta", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.5528, 59.6162] },
+      "properties": { "zip_code": 72246, "city": "Västerås", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.9528, 64.7507] },
+      "properties": { "zip_code": 93165, "city": "Skellefteå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.705, 59.758] },
+      "properties": { "zip_code": 76175, "city": "Norrtälje", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2597, 63.8284] },
+      "properties": { "zip_code": 90587, "city": "Umeå", "count": "2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.1236, 58.3259] },
+      "properties": { "zip_code": 59593, "city": "Mjölby", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.85, 59.6167] },
+      "properties": { "zip_code": 19592, "city": "MÄRSTA", "count": "2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2597, 63.8284] },
+      "properties": { "zip_code": 90588, "city": "Umeå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.7875, 59.7256] },
+      "properties": { "zip_code": 74146, "city": "Knivsta", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2251, 67.8557] },
+      "properties": { "zip_code": 98145, "city": "Kiruna", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.2667, 63.9333] },
+      "properties": { "zip_code": 91931, "city": "Åsele", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.7875, 59.7256] },
+      "properties": { "zip_code": 74195, "city": "Knivsta", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.2667, 58.45] },
+      "properties": { "zip_code": 53191, "city": "Vinninga", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.0777, 59.6361] },
+      "properties": { "zip_code": 74536, "city": "Enköping", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.4965, 60.1728] },
+      "properties": { "zip_code": 68362, "city": "Ekshärad", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.7667, 56.1833] },
+      "properties": { "zip_code": 37353, "city": "Ramdala", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.7833, 63.3167] },
+      "properties": { "zip_code": 89195, "city": "Arnäsvall", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.5333, 56.7333] },
+      "properties": { "zip_code": 34255, "city": "Grimslöv", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.4142, 57.7916] },
+      "properties": { "zip_code": 52390, "city": "Ulricehamn", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.3, 59.7333] },
+      "properties": { "zip_code": 74962, "city": "Örsundsbro", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [11.676, 58.2385] },
+      "properties": { "zip_code": 47333, "city": "Henån", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [23.1565, 65.853] },
+      "properties": { "zip_code": 95250, "city": "Kalix-Nyborg", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.3063, 62.3913] },
+      "properties": { "zip_code": 85561, "city": "Kovland", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.7571, 63.9068] },
+      "properties": { "zip_code": 91134, "city": "Vännäs", "count": "2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.0079, 58.753] },
+      "properties": { "zip_code": 61194, "city": "Nyköping", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.705, 59.758] },
+      "properties": { "zip_code": 76145, "city": "Norrtälje", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.2064, 55.6428] },
+      "properties": { "zip_code": 24545, "city": "Staffanstorp", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.705, 59.758] },
+      "properties": { "zip_code": 76130, "city": "Norrtälje", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2597, 63.8284] },
+      "properties": { "zip_code": 90750, "city": "Umeå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [21.95, 65.6667] },
+      "properties": {
+        "zip_code": 95442,
+        "city": "Södra Sunderbyn",
+        "count": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.4446, 57.0413] },
+      "properties": { "zip_code": 38392, "city": "Mönsterås", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.3063, 62.3913] },
+      "properties": { "zip_code": 85651, "city": "Sundsvall", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2597, 63.8284] },
+      "properties": { "zip_code": 90591, "city": "Umeå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.2167, 56.0667] },
+      "properties": { "zip_code": 26454, "city": "Ljungbyhed", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.6167, 63.0333] },
+      "properties": { "zip_code": 84495, "city": "STUGUN", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.5333, 63.1833] },
+      "properties": { "zip_code": 83293, "city": "Frösön", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.0167, 57.8167] },
+      "properties": { "zip_code": 51333, "city": "Fristad", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.6333, 63.7833] },
+      "properties": { "zip_code": 89599, "city": "Solberg", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.9528, 64.7507] },
+      "properties": { "zip_code": 93195, "city": "Skellefteå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.0833, 57.5667] },
+      "properties": { "zip_code": 43740, "city": "LINDOME", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.4371, 60.4858] },
+      "properties": { "zip_code": 78450, "city": "Borlänge", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.9237, 60.065] },
+      "properties": { "zip_code": 73834, "city": "NORBERG", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.1434, 59.1277] },
+      "properties": { "zip_code": 69271, "city": "Kumla", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.65, 64.5167] },
+      "properties": { "zip_code": 93793, "city": "Burträsk", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [21.6886, 65.8252] },
+      "properties": { "zip_code": 96151, "city": "Boden", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.6721, 60.0238] },
+      "properties": { "zip_code": 68392, "city": "Hagfors", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2597, 63.8284] },
+      "properties": { "zip_code": 90582, "city": "Umeå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.8175, 61.3769] },
+      "properties": { "zip_code": 82891, "city": "Edsbyn", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.5528, 59.6162] },
+      "properties": { "zip_code": 72474, "city": "Västerås", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.5, 63.2] },
+      "properties": { "zip_code": 89331, "city": "Bjästa", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.3139, 59.5072] },
+      "properties": { "zip_code": 66593, "city": "Kil", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.7333, 59.3667] },
+      "properties": { "zip_code": 17998, "city": "Färentuna", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.2167, 61.9333] },
+      "properties": { "zip_code": 82995, "city": "Harmånger", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.2066, 59.2741] },
+      "properties": { "zip_code": 70592, "city": "Örebro", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.7195, 64.2017] },
+      "properties": { "zip_code": 92231, "city": "Vindeln", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.0333, 62.35] },
+      "properties": { "zip_code": 86492, "city": "Matfors", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.7153, 63.2909] },
+      "properties": { "zip_code": 89150, "city": "Örnsköldsvik", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.1167, 59.2667] },
+      "properties": { "zip_code": 12831, "city": "Skarpnäck", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.6865, 58.1362] },
+      "properties": { "zip_code": 59046, "city": "Rimforsa", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.5667, 63.1667] },
+      "properties": { "zip_code": 89340, "city": "Köpmanholmen", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.6333, 59.8] },
+      "properties": { "zip_code": 73398, "city": "Ransta", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.1, 57.7] },
+      "properties": { "zip_code": 56230, "city": "Norrahammar", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.0562, 59.3993] },
+      "properties": { "zip_code": 18254, "city": "Djursholm", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.3946, 61.3482] },
+      "properties": { "zip_code": 82142, "city": "Bollnäs", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.9845, 64.8357] },
+      "properties": { "zip_code": 93491, "city": "Kåge", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [22.1546, 65.5842] },
+      "properties": { "zip_code": 97592, "city": "Luleå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.2167, 58.05] },
+      "properties": { "zip_code": 46396, "city": "Nygård", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2597, 63.8284] },
+      "properties": { "zip_code": 90338, "city": "Umeå", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.1167, 57.35] },
+      "properties": { "zip_code": 43951, "city": "Åsa", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.9541, 58.2623] },
+      "properties": { "zip_code": 53494, "city": "Vara", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [15.0365, 58.5371] },
+      "properties": { "zip_code": 59172, "city": "Motala", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.7664, 56.1591] },
+      "properties": { "zip_code": 28134, "city": "Hässleholm", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.7333, 59.3667] },
+      "properties": { "zip_code": 17997, "city": "Färentuna", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.0167, 57.7] },
+      "properties": { "zip_code": 50771, "city": "Gånghester", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.9023, 58.8799] },
+      "properties": { "zip_code": 69633, "city": "Askersund", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.6066, 59.9199] },
+      "properties": { "zip_code": 73393, "city": "Sala", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.6667, 59.2833] },
+      "properties": { "zip_code": 63537, "city": "Ärla", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.6357, 63.1792] },
+      "properties": { "zip_code": 83191, "city": "Östersund", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.6833, 59.3] },
+      "properties": { "zip_code": 13972, "city": "Djurhamn", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.2667, 57.8] },
+      "properties": { "zip_code": 56135, "city": "Huskvarna", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [17.3063, 62.3913] },
+      "properties": { "zip_code": 85460, "city": "Sundsvall", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [12.1179, 57.6589] },
+      "properties": { "zip_code": 43537, "city": "Mölnlycke", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [14.1616, 58.4245] },
+      "properties": { "zip_code": 54391, "city": "Tibro", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [20.2251, 67.8557] },
+      "properties": { "zip_code": 98138, "city": "Kiruna", "count": "1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.8237, 58.7097] },
+      "properties": { "zip_code": 54292, "city": "Mariestad", "count": "1" }
+    }
+  ]
+}
